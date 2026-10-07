@@ -1,0 +1,48 @@
+{
+  "name": "ALVIA — Control, refined.",
+  "short_name": "ALVIA",
+  "description": "ALVIA is a Swiss studio developing ALVIA Control CC01, a 500 × 500 mm control mousepad currently in testing.",
+  "lang": "en",
+  "dir": "ltr",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "any",
+  "background_color": "#0b0c0a",
+  "theme_color": "#050505",
+  "categories": ["shopping", "productivity"],
+  "icons": [
+    {
+      "src": "ALVIA_Logooo.png",
+      "sizes": "1254x1254",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "ALVIA_Logooo.png",
+      "sizes": "1254x1254",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ],
+  "shortcuts": [
+    {
+      "name": "Control CC01",
+      "short_name": "CC01",
+      "description": "The current prototype and its specifications.",
+      "url": "./products.html"
+    },
+    {
+      "name": "Test programme",
+      "short_name": "Testing",
+      "description": "How the prototype is evaluated with players and creators.",
+      "url": "./community.html"
+    },
+    {
+      "name": "Contact",
+      "short_name": "Contact",
+      "description": "Direct contact routes for testing, business and retail.",
+      "url": "./contact.html"
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>https://alvia.studio/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://alvia.studio/?lang=en"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://alvia.studio/?lang=de"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://alvia.studio/?lang=fr"/>
+  </url>
+  <url>
+    <loc>https://alvia.studio/products.html</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://alvia.studio/products.html?lang=en"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://alvia.studio/products.html?lang=de"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://alvia.studio/products.html?lang=fr"/>
+  </url>
+  <url>
+    <loc>https://alvia.studio/technology.html</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://alvia.studio/technology.html?lang=en"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://alvia.studio/technology.html?lang=de"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://alvia.studio/technology.html?lang=fr"/>
+  </url>
+  <url>
+    <loc>https://alvia.studio/community.html</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://alvia.studio/community.html?lang=en"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://alvia.studio/community.html?lang=de"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://alvia.studio/community.html?lang=fr"/>
+  </url>
+  <url>
+    <loc>https://alvia.studio/about.html</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://alvia.studio/about.html?lang=en"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://alvia.studio/about.html?lang=de"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://alvia.studio/about.html?lang=fr"/>
+  </url>
+  <url>
+    <loc>https://alvia.studio/faq.html</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://alvia.studio/faq.html?lang=en"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://alvia.studio/faq.html?lang=de"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://alvia.studio/faq.html?lang=fr"/>
+  </url>
+  <url>
+    <loc>https://alvia.studio/contact.html</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://alvia.studio/contact.html?lang=en"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://alvia.studio/contact.html?lang=de"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://alvia.studio/contact.html?lang=fr"/>
+  </url>
+</urlset>

@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1244 1244" role="img" aria-labelledby="title desc">
+  <title id="title">ALVIA</title>
+  <desc id="desc">ALVIA logo designed in Switzerland.</desc>
+  <defs>
+    <filter id="remove-black" color-interpolation-filters="sRGB">
+      <feColorMatrix type="matrix" values="
+        1 0 0 0 0
+        0 1 0 0 0
+        0 0 1 0 0
+        1 1 1 0 0" />
+    </filter>
+  </defs>
+  <image href="ALVIA_Logo.png" x="0" y="0" width="1244" height="1244" preserveAspectRatio="xMidYMid meet" filter="url(#remove-black)" />
+</svg>
